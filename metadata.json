@@ -1,0 +1,8 @@
+{
+  "name": "Consulta CNPJ",
+  "description": "Aplicativo para consultar e explorar dados de CNPJ utilizando a API publica.cnpj.ws.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
